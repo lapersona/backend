@@ -1,0 +1,22 @@
+[
+	{
+		"title": "Iphone",
+		"price": 8999.5,
+		"id": 1
+	},
+	{
+		"title": "Imac",
+		"price": 91500.5,
+		"id": 2
+	}
+]	{
+		"title": "Macbook",
+		"price": 90000.5,
+		"id": 3
+	},
+	{
+		"title": "Ipad",
+		"price": 29000.5,
+		"id": 4
+	}
+]
